@@ -1,0 +1,6 @@
+[submodule "homework2"]
+	path = homework2
+	url = git://github.com/lazyjek/DecisionTreeDemo.git
+[submodule "homework4"]
+	path = homework4
+	url = https://github.com/lazyjek/NaiveBayesAndTAN.git
